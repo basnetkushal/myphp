@@ -1,3 +1,4 @@
 <?php
-echo "My first PHP script!";
+echo "Kushal basnet is a good big boy!!"
+
 ?>
